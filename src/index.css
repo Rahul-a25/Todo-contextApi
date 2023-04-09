@@ -8,6 +8,7 @@ body {
 }
 
 code {
+  font-size: large;
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
