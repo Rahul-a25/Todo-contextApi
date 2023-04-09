@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-contextApi/static/css/main.f369b187.css",
+    "main.js": "/Todo-contextApi/static/js/main.1193241b.js",
+    "index.html": "/Todo-contextApi/index.html",
+    "main.f369b187.css.map": "/Todo-contextApi/static/css/main.f369b187.css.map",
+    "main.1193241b.js.map": "/Todo-contextApi/static/js/main.1193241b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f369b187.css",
+    "static/js/main.1193241b.js"
+  ]
+}
